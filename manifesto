@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Yuri Milner | Technology Investor & Science Philanthropist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="img/favicon-32x32.png" type="image/png">
+    <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Playfair+Display:,300, 400, 700" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="site-wrap">
+
+	<a href="javascript:void();" class="offcanvas-toggle js-offcanvas-toggle">Menu</a>
+
+<div class="offcanvas_menu" id="offcanvas_menu">
+    <ul class="mb-5">
+        <li ><a href="https://yurimilner.com">Home</a></li>
+        <li ><a href="https://yurimilner.com/internet-technology">Internet Technology</a></li>
+        <li ><a href="https://yurimilner.com/science-philanthropy">Science Philanthropy</a></li>
+        <li ><a href="https://yurimilner.com/support-for-israel">Support for Israel</a></li>
+        <li ><a href="https://yurimilner.com/humanitarian-giving">Ukraine Crisis Response</a></li>
+        <li ><a href="https://yurimilner.com/time-100-by-stephen-hawking">TIME 100 by Stephen Hawking</a></li>
+        <li ><a href="https://yurimilner.com/publications">Publications</a></li>
+        <li class="active"><a href="https://yurimilner.com/manifesto">Manifesto</a></li>
+        <li ><a href="https://yurimilner.com/videos">Videos</a></li>
+        <li ><a href="https://yurimilner.com/awards">Awards and Recognition</a></li>
+        <li ><a href="https://yurimilner.com/fact-sheet">Fact Sheet</a></li>
+    </ul>
+    <ul class="social">
+		<li><a class="fb" href="https://www.facebook.com/profile.php?id=649458088" target="_blank">Facebook</a></li>
+		<li><a class="tw" href="https://twitter.com/yurimilner" target="_blank">Twitter</a></li>
+        <li><a class="instagram" href="https://instagram.com/yurimilner" target="_blank">Instagram</a></li>
+        <li><a class="linkedin" href="https://www.linkedin.com/in/yuri-milner" target="_blank">LinkedIn</a></li>
+	</ul>
+</div>
+
+	
+<aside style="background-image: url(img/a02.jpg); text-align: center;">
+	<img src="img/manifesto-book-cover.png" alt="" class="cover-manifesto">
+</aside>
+
+<main>
+
+	<h1 class="mb-4">Manifesto</h1>
+
+	<div>
+
+		<p>In&nbsp;2021, Yuri Milner published some of&nbsp;his ideas in&nbsp;a&nbsp;book, <strong>Eureka Manifesto: the Mission for Our Civilization</strong>.</p>
+		<p>The manifesto gives his perspective on&nbsp;humanity&rsquo;s place in&nbsp;the Universe, the mission it&nbsp;entails, and the future we&nbsp;could be&nbsp;part of&nbsp;if&nbsp;we&nbsp;embrace this mission.</p>
+		<p>You can read, listen to&nbsp;or&nbsp;download the book for free at&nbsp;<a href="https://yurimilnermanifesto.org/" target="_blank">yurimilnermanifesto.org</a>.</p>
+
+	</div>
+
+</main>
+
+</div>
+
+<div id="loader" class="show fullscreen">
+    <svg class="circular" width="48px" height="48px">
+        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/>
+        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/>
+    </svg>
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.countdown.min.js"></script>
+<script src="js/main.js"></script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "Person",
+	"name": "Yuri Milner",
+	"url": "http://www.yurimilner.com/",
+	"image": "http://www.yurimilner.com/img/yuri-1.jpg",
+	"sameAs": [
+		"https://www.facebook.com/yuri.milner.9",
+		"https://twitter.com/yurimilner"
+	],
+	"jobTitle": "Founder",
+	"worksFor": {
+		"@type": "Organization",
+		"name": "DST Global"
+	}
+}
+</script>
+
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-49025616-5" async></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-49025616-5');
+</script>
+
+</body>
+</html>
